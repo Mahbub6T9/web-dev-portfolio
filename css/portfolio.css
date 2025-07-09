@@ -145,3 +145,10 @@ main section{
 .item-description{
     font-weight: 600;
 }
+
+
+
+/* resume style */
+.resume-container{
+    display: flex;
+}
